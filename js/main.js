@@ -52,10 +52,11 @@ var writeBerries = function (berries) {
 
     if (berry.onShrub.true) {
       document.write('Yes');
+    }
     else {
       document.write('no');
-      },
     },
+
 
     document.write('</dd>');
 
